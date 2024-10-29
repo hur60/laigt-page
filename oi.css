@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(37, 55, 214, 0.863);
+}
+
+body h1{
+    font-family: Arial;
+    font-size: 30px;
+    color: rgb(36, 40, 59);
+    cetr
+}
+
+body h3{
+    font-size: 15px;
+    color: rgb(20, 47, 70);
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 10px;
+
+}
+
+a {
+    color: rgba(128, 196, 223, 0.575);
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+.div {
+    text-align: center;
+}
+.alldiv{
+    text-align: center;
+    padding: 25px;
+}

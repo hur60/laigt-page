@@ -1,0 +1,44 @@
+body {
+    background-color: rgba(37, 55, 214, 0.863);
+}
+
+.center {
+    text-align: center;
+    padding: 3;
+}
+
+body table {
+    border-collapse: collapse;
+    border-color: black;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 2px;
+}
+
+a {
+    color: rgba(128, 196, 223, 0.575);
+    text-decoration: none;
+}
+
+a h3 {
+    padding: 0,10px;
+}
+
+h2 {
+    text-decoration: double;
+    text-transform: none;
+    text-size-adjust: 1px;
+    font-family: sans-serif;
+}
+
+ h3 {
+    border: 0,1;
+    padding: 2px;
+    color: rgba(128, 196, 223, 0.575);
+    text-align: center;
+}
